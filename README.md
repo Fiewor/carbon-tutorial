@@ -4,7 +4,7 @@ This tutorial will guide you in creating a React app with the [Carbon Design Sys
 
 Get started by visiting the [tutorial instructions](https://www.carbondesignsystem.com/tutorial/react/overview/).
 
-### I completed this tutorial and hosted it here: http://carbon-tutorial-fiewor.mybluemix.net/#/ <br>
+### I completed this tutorial and hosted it here: https://carbon-tut.netlify.app/ <br>
 Not available? Try cloning and run it locally instead.
 
 ## Available Scripts
